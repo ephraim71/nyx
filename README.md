@@ -2,7 +2,7 @@
 
 [**Empowering flight dynamics engineers with open-source software**][website]
 
-Nyx is revolutionizing the field of flight dynamics engineering as a powerful, open-source tool for mission design and orbit determination. From trajectory optimization to orbit estimation, Nyx is built for speed, automation, and scalability.
+Nyx is revolutionizing the field of flight dynamics enginetest prering as a powerful, open-source tool for mission design and orbit determination. From trajectory optimization to orbit estimation, Nyx is built for speed, automation, and scalability.
 
 **Nyx has proven mission-critical reliability, already contributing to the success of three lunar missions.**
 
