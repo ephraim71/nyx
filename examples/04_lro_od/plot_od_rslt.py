@@ -82,7 +82,7 @@ def main(path: str, full: bool):
     # Plot the residual ratios and whether they were accepted.
     px.scatter(df, x="Epoch (UTC)", y="Residual ratio", color="Tracker").show()
 
-    df_resid_ok = df.filter(~df["Residual Rejected"])
+    df_resid_ok = df.filter(df["Residual Rejected"] == False)
 
     # Plot the measurement residuals and their noises.
     for msr in msr_types:
